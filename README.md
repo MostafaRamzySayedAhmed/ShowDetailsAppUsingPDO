@@ -1,10 +1,10 @@
 # Show Details App
-It is a Responsive Web App For Showing Details About Items Without Need of Reloading any of it's Pages or Being 
+It is a Responsive Real Time Web App for Showing Details about Items without Need of Reloading any of it's Pages or Being 
 Redirected to Another Page.
 
 # The Features
 * The Responsive, Simple & Classic Design.
-* Real Time Data Retrival App by which the User wiil not Need to Reload a Page or Being Redirected to Another One.
+* Real Time Data Retrieval App by which the User will not Need to Reload a Page or Being Redirected to Another One.
 * It will Help Users to Retrieve Data about Items in an Easy & Simple Manner.
 
 # The Used Technologies
