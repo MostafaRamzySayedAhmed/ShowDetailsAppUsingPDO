@@ -19,4 +19,3 @@ Redirected to Another Page.
 * PHP
 * PHP (PDO)
 * MySQL DB
-.
