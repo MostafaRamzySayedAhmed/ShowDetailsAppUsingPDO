@@ -1,6 +1,6 @@
 # Show Details App
 It's a Responsive Real Time Web App for Showing Details about Items without Need of Reloading any of it's Pages or Being 
-Redirected to Another Page.
+Redirected to Another Page
 
 # The Features
 * The Responsive, Simple & Classic Design.
